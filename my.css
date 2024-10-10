@@ -1,0 +1,40 @@
+
+*{
+ color: red;
+}
+body{
+    background-color:lightcyan;
+}
+
+p{
+    font-size: large;
+}
+ span{
+    border-style: solid;
+background-color: yellow; 
+} 
+ 
+.ev{
+    color: red;
+    font-size: x-large;
+    font: bolder;
+}
+.od{
+    color:blue;
+    font-style: italic;
+   
+}
+div{
+color: gold;
+font-size: x-large;
+border: 2px solid red;
+margin: 2px;
+ } 
+
+ .a{
+    float: left;
+ }
+
+h1,h2{
+    border-style:ridge;
+}
